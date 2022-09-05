@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #294969;
+  color: ghostwhite;
+  padding: 10px 15px;
+}
+
+.hide {
+  display: none;
+}

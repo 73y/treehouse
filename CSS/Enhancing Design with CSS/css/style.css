@@ -1,0 +1,23 @@
+/* Web Fonts ----------------------- */
+@font-face {
+  font-family: 'Abolition Regular';
+  src: url('../fonts/abolition-regular-webfont.woff') format('woff');
+}
+
+/* Base Styles --------------------- */
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 1.25em; /* 20px on most screens */  
+}
+img {
+  width: 100%; /* responsive images */
+}
+
+
+/* Main Styles --------------------- */
+
+
+/* Media Queries ------------------- */
+
