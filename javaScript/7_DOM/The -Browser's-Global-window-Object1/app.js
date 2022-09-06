@@ -17,5 +17,3 @@ btnRemove.addEventListener('click', () => {
     const lastItem = document.querySelector('li:last-child')
     lastItem.remove();
 });
-
-//git test
